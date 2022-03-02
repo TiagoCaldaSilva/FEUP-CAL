@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\user\Desktop\FEUP\2_Ano\2_Semestre\CAL\TP4
+CMake Error at CMakeLists.txt:6 (add_subdirectory):
+  add_subdirectory given source "lib/googletest-master" which is not an
+  existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/user/Desktop/FEUP/2_Ano/2_Semestre/CAL/TP4/cmake-build-debug/CMakeFiles/CMakeOutput.log".

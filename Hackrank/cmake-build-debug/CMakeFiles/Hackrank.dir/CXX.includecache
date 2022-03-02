@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/FEUP/2_Ano/2_Semestre/CAL/Hackrank/balancing_weights.cpp
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+climits
+-
+
